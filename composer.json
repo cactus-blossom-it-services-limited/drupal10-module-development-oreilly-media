@@ -19,13 +19,14 @@
     },
     "require-dev": {
         "composer/installers": "^2.0",
+        "consolidation/robo": "4.0.1 as 3.0.10",
         "cweagans/composer-patches": "^1.7",
-        "drupal/core-composer-scaffold": "^10",
         "drupal/admin_toolbar": "^3",
+        "drupal/core-composer-scaffold": "^10",
         "drupal/core-dev": "^10",
+        "drupal/devel_entity_updates": "^4.1",
         "drush/drush": "^11",
-        "openeuropa/task-runner": "^2",
-        "consolidation/robo": "4.0.1 as 3.0.10"
+        "openeuropa/task-runner": "^2"
     },
     "repositories": [
         {
