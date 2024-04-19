@@ -1,4 +1,7 @@
-# Drupal 10 Module Development
+## Local folder structure
+~/My_Drupal9_and_10/OReilly-Media/Drupal-10-Module-Development/This Repository
+
+## Drupal 10 Module Development
 
 This is the code repository for the book *Drupal 10 Module Development* published by Packt.
 
@@ -75,6 +78,9 @@ And this command to try to automatically fix coding standards issues that pop up
 ```bash
 $ docker-compose exec php ./vendor/bin/run drupal:phpcbf
 ```
+
+Andrew Farquharson note: disable aggregation at /admin/config/development/performance to
+enable theme styles
 
 ## Get to Know the Author
 **Daniel Sipos**
